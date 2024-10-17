@@ -1,4 +1,4 @@
-# Reverse All The Things
+# Reverse All The Scripts
 
 Hello! In this repository you will find a collection of scripts that I am creating to test myself during my journey to become a Malware Analyst.
 
