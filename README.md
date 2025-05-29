@@ -65,3 +65,5 @@ List of scripts and their features:
             }
         }
         ```
+
+2. x64dbg script that automates process un-hollowing until memory dump. Output here: https://federicofantini.github.io/TheTrackerShow/scripts/x64dbg/01-lummastealer_process_unhollowing/
